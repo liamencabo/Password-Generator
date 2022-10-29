@@ -2,7 +2,7 @@
 
 This project is a Java Console Application to generate Random passwords and performing a password strength check.
 
-I wanted to build upon and be more familir with Java. Over the course of determining what to create I stumbled upon a creating a password generator. Too many times we stumble across creating a password that we have not already used or one that can be easily decrypted. So what better way to build upon Java than to create a Java Password Generator that generated the password for you. While working on it I decided to include a password strength checker feature that checks for the overall strength of the entered password and I was pretty happy with how it came out but I realised that it was not very straightforward to use for someone who does not know how it is supposed to work so I decided to create a GUI for the application for the next step it is available in the Password-Services repository
+I wanted to build upon and be more familir with Java. Over the course of determining what to create I stumbled upon a creating a password generator. Too many times we stumble across creating a password that we have not already used or one that can be easily decrypted. So, what better way to build upon Java than to create a Java Password Generator that generated the password for you! While working on it I decided to include a password <b>strength checker</b> feature that checks for the overall strength of the entered password and I was pretty happy with how it came out but I realised that it was not very straight forward to use for someone who does not know how it is supposed to work so I decided to create a GUI for the application for the next step it is available in the Password-Services repository!
 
 Functionalities:
 
