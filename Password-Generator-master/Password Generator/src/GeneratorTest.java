@@ -30,15 +30,16 @@ class GeneratorTest {
 		assertEquals(generator.alphabet.getAlphabet(), Alphabet.UPPERCASE_LETTERS);
 	}
 	
+	<!-- assertsEquals should be 26 below -->
 	@Test
 	void test5() {
 		assertEquals(generator.alphabet.getAlphabet().length(), 26);
 	}
 	
-	
+	<!-- assertsEquals should be 4 below -->
 	@Test
 	void test6() {
-		assertEquals(generatedPassword.Length, 4);
+		assertEquals(generatedPassword.Length, 5);
 		System.out.println(generatedPassword);
 	}
 }
